@@ -177,5 +177,9 @@ PUBLIC_ROLE_LIKE = "Gamma"
 # SESSION_COOKIE_SECURE = True 
 # SESSION_COOKIE_HTTPONLY = True
 
-LOGO_TARGET_PATH = "https://images.squarespace-cdn.com/content/v1/5f0da07f86be2a6c0047ecae/1594729264242-ZTP0RGNQIE39P8T96TIB/logo_dark.png?format=1500w"
+# CUSTOM
+APP_NAME = "eeSea BI"
+LOGO_RIGHT_TEXT: Callable[[], str] | str = ""
+APP_ICON = "https://app.eesea.com/images/logo-dark.svg"
+LOGO_TARGET_PATH = "https://app.eesea.com"
 LOGO_TOOLTIP = "eeSea"

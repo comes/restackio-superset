@@ -179,7 +179,7 @@ PUBLIC_ROLE_LIKE = "Gamma"
 
 # CUSTOM
 APP_NAME = "eeSea BI"
-LOGO_RIGHT_TEXT: Callable[[], str] | str = ""
+LOGO_RIGHT_TEXT = ""
 APP_ICON = "https://app.eesea.com/images/logo-dark.svg"
 LOGO_TARGET_PATH = "https://app.eesea.com"
 LOGO_TOOLTIP = "eeSea"

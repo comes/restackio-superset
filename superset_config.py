@@ -168,14 +168,14 @@ WTF_CSRF_TIME_LIMIT = 60 * 60 * 24 * 365
 MAPBOX_API_KEY = env("MAPBOX_API_KEY")
 
 # For allowing anonymous users to see specific Dashboards 
-# AUTH_ROLE_PUBLIC = "Public" 
+AUTH_ROLE_PUBLIC = "Public" 
 # PUBLIC_ROLE_LIKE = "Restricted Gamma Public Access"
 PUBLIC_ROLE_LIKE = "Gamma"
 
 # To facilitate iFrame embedding of public dashboard 
-# SESSION_COOKIE_SAMESITE = "None" 
-# SESSION_COOKIE_SECURE = True 
-# SESSION_COOKIE_HTTPONLY = True
+SESSION_COOKIE_SAMESITE = "None" 
+SESSION_COOKIE_SECURE = True 
+SESSION_COOKIE_HTTPONLY = True
 
 # CUSTOM
 APP_NAME = "eeSea BI"

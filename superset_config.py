@@ -176,3 +176,6 @@ PUBLIC_ROLE_LIKE = "Gamma"
 # SESSION_COOKIE_SAMESITE = "None" 
 # SESSION_COOKIE_SECURE = True 
 # SESSION_COOKIE_HTTPONLY = True
+
+LOGO_TARGET_PATH = "https://images.squarespace-cdn.com/content/v1/5f0da07f86be2a6c0047ecae/1594729264242-ZTP0RGNQIE39P8T96TIB/logo_dark.png?format=1500w"
+LOGO_TOOLTIP = "eeSea"

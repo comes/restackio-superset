@@ -183,3 +183,5 @@ LOGO_RIGHT_TEXT = ""
 APP_ICON = "https://app.eesea.com/images/logo-dark.svg"
 LOGO_TARGET_PATH = "https://app.eesea.com"
 LOGO_TOOLTIP = "eeSea"
+FAVICONS = [{"href": "https://app.eesea.com/favicon.ico"}]
+

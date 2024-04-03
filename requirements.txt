@@ -1,5 +1,6 @@
 sqlalchemy-redshift
 snowflake-connector-python
 snowflake-sqlalchemy
+sqlalchemy-bigquery
 typing-extensions
 apache-superset[cors]
